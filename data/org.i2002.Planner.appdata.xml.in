@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+	<id>org.i2002.Planner.desktop</id>
+	<metadata_license>CC0-1.0</metadata_license>
+	<project_license>MIT</project_license>
+  <name>Planner</name>
+  <summary>Simple time management client app</summary>
+	<description>
+	  <p>
+	    This app allows connection to a Planner <a href="https://gitlab.com/i2002/planner-time-server/">time server</a>.
+	  </p>
+	  <p>Features:</p>
+	  <ul>
+	    <li>Pomodoro like timer</li>
+	    <li>Simple task management</li>
+	  </ul>
+	</description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://gitlab.com/i2002/planner-gnome-client/raw/master/screenshots/planner.png</image>
+      <caption>Initial screen</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://gitlab.com/i2002/planner-gnome-client</url>
+  <releases>
+    <release version="1.1.0" date="2019-12-31" type="stable" />
+  </releases>
+  <developer_name>i2002 (Tudor Butufei)</developer_name>
+  <launchable type="desktop-id">org.i2002.Planner.desktop</launchable>
+  <content_rating type="oars-1.0" />
+</component>

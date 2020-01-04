@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="planner">
+	<schema id="org.i2002.Planner" path="/org/i2002/Planner/">
+	  <key name="socket-ip" type="s">
+	    <default>'localhost'</default>
+	    <summary>Socket IP</summary>
+	    <description>Planner time server socket IP</description>
+	  </key>
+	  <key name="socket-port" type="s">
+	    <default>'8228'</default>
+	    <summary>Socket port</summary>
+	    <description>Planner time server socket port</description>
+	  </key>
+	</schema>
+</schemalist>

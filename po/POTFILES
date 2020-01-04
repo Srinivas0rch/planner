@@ -1,0 +1,11 @@
+data/org.i2002.Planner.desktop.in
+data/org.i2002.Planner.appdata.xml.in
+data/org.i2002.Planner.gschema.xml
+src/window.ui
+src/timer.ui
+src/tasks.ui
+src/main.py
+src/window.py
+src/timer.py
+src/tasks.py
+

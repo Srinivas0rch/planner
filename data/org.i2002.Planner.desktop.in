@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Planner
+Exec=planner
+Icon=planner
+Terminal=false
+Type=Application
+Categories=Utility
+StartupNotify=true
