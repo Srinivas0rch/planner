@@ -6,7 +6,7 @@ It combines the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Tech
 
 It works by having clients connect to a time server via websockets.
 This project represents a GNOME GUI **client**.
-In order to work it needs to connect to [Planner time server](https://gitlab.com/i2002/planner-timer-server).
+In order to work it needs to connect to [Planner time server](https://gitlab.com/i2002/planner-time-server).
 
 ## Screenshots
 ![Planner screenshot](https://gitlab.com/i2002/planner-gnome-client/raw/master/screenshots/planner.png)
