@@ -9,7 +9,7 @@ This project represents a GNOME GUI **client**.
 In order to work it needs to connect to [Planner time server](https://gitlab.com/i2002/planner-timer-server).
 
 ## Screenshots
-![Planner screenshot](https://gitlab.com/i2002/planner/raw/master/screenshots/planner.png)
+![Planner screenshot](https://gitlab.com/i2002/planner-gnome-client/raw/master/screenshots/planner.png)
 
 ## Installation
 ### Flatpak install
