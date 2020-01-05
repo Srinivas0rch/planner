@@ -13,7 +13,9 @@ In order to work it needs to connect to [Planner time server](https://gitlab.com
 
 ## Installation
 ### Flatpak install
-*TODO*
+1. Download the flatpak package from the [Releases](https://gitlab.com/i2002/planner-gnome-client/-/releases) page
+2. `flatpak install <path-to-downloaded-file>`
+**Note:** You will still need to install [Planner time server](https://gitlab.com/i2002/planner-time-server) sepparately, as the flatpak install only provides the GNOME client
 
 ### Build
 **Requirements**
